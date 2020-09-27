@@ -3,6 +3,9 @@
 
 Ecommerce Web application using ASP.NET CORE, Microservices, docker, containers, EntityFramework
 
+Architecture:
+
+![Ecommerce ASP NET CORE Microservices](https://user-images.githubusercontent.com/1173059/94366801-1f9bbe80-00a0-11eb-89ca-f28d6a3faecf.png)
 
 To Run the Applications, following the steps below:
 
