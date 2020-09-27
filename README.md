@@ -74,3 +74,11 @@ Docker start catalogdb
 11- Update DB for CatalogDB container
 
 dotnet ef database update InitialMigration -c ShoesOnContainers.Services.ProductCatalogApi.Data.CatalogDbContext
+
+Build started...
+Build succeeded.
+Applying migration '20170925084431_Initial'.
+Applying migration '20200927121411_InitialMigration'.
+Done.
+
+
